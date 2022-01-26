@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 33
+      "likes": 37
     },
     {
       "id": 2,
@@ -47,6 +47,36 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Dolly",
+      "image": "http://www.goodsamaritan.ms/uploads/1/2/7/7/12777965/s736176615899143325_p382_i1_w305.jpeg",
+      "likes": 99,
+      "id": 9
+    },
+    {
+      "name": "Dolly",
+      "image": "http://www.goodsamaritan.ms/uploads/1/2/7/7/12777965/s736176615899143325_p382_i1_w305.jpeg",
+      "likes": 99,
+      "id": 10
+    },
+    {
+      "name": "Dolly",
+      "image": "http://www.goodsamaritan.ms/uploads/1/2/7/7/12777965/s736176615899143325_p382_i1_w305.jpeg",
+      "likes": 99,
+      "id": 11
+    },
+    {
+      "name": "pikachi",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pokemon.com%2F&psig=AOvVaw3-UReXWlUfcihdYieHdneI&ust=1643313857055000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDhxKeb0PUCFQAAAAAdAAAAABAE",
+      "likes": 99,
+      "id": 12
+    },
+    {
+      "name": "pikachi",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pokemon.com%2F&psig=AOvVaw3-UReXWlUfcihdYieHdneI&ust=1643313857055000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDhxKeb0PUCFQAAAAAdAAAAABAE",
+      "likes": 99,
+      "id": 13
     }
   ]
 }
